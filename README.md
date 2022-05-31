@@ -1,3 +1,3 @@
 # jish-repo
 
-demo repository for learning
+demo repository for learning!
